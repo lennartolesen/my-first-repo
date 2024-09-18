@@ -1,3 +1,3 @@
 # my-first-repo
 Hello world
-Hello world, i hope you are okay
+Hello world, how are you i hope you are okay
