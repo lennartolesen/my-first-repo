@@ -1,3 +1,3 @@
-# my-first-repo
-Hello world
-Hello world, how are you i hope you are okay
+# Hello world 
+This is my first repository
+I am looking forward to learning more.
