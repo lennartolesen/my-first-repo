@@ -1,7 +1,5 @@
 # Hello world
 
-This is a test branch where I am making some changes.
+This is a test branch, im trying to make a conflict. 
 
-Trying to simulate a conflict.
-
-I hope this works!
+Does this work?
