@@ -1,7 +1,7 @@
 # Hello world
 
-This is a test branch where I am making some changes.
+This is my first repository, but I decided to rewrite it here.
 
-Trying to simulate a conflict.
+Testing to see if changes cause a conflict!
 
-I hope this works!
+Conflicts are tricky but fun to resolve.
