@@ -1,7 +1,7 @@
-# Hello world 
-This is my first repository
-I am looking forward to learning more.
+# Hello world
 
-Testing to see if it works! 
+This is a test branch where I am making some changes.
 
-Create a conflct
+Trying to simulate a conflict.
+
+I hope this works!
